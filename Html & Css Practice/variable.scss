@@ -1,0 +1,15 @@
+$color: green;
+$font-weight: bold;
+$font-family: helvetica;
+
+ul {
+   font-size: 14px;
+   color: $color;
+}
+
+ol {
+   font-size: 18px;
+   color: $color;
+   font-weight: $font-weight;
+   font-family: $font-family;
+}

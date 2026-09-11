@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<!--ATTRIBUTE CSS SELECTOR-->
+<html lang="en">
+    <head>
+        <title>Attibute</title>
+        <style>
+            a {
+                color: blue;
+            }
+
+            a[href="https://facebook.com"]{
+                color: red;
+            }
+
+            p[id="para1"]{
+                color: green;
+            }
+            /*Descendent & Attribute*/
+           /* a > li[href="https://facebook.com"]{
+                color: red;
+            }*/
+
+            /*Descendent & Attribute*/
+           /* h1 > p[id="para1"]{
+                color: green;
+            }*/
+            
+        </style>
+    </head>
+    <body>
+        <ul>
+            <li><a href="https://google.com">Google</a></li>
+            <li><a href="https://facebook.com">Facebook</a></li>
+            <li><a href="https://amazon.com">Amazon</a></li>
+         </ul>
+         <h1>
+            <p id="para1">What's your name</p>
+            <p id="para2">What's your name</p>
+        </h1>
+    </body>
+</html>
