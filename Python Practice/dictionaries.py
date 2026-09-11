@@ -5,16 +5,20 @@
 
 # Start your dictionary values as lists []
 houses = {
-    "Harry": ["Gryffindor"], "Mubashir": ["Abuja"]
+    "Harry": "Gryffindor", "Mubashir": "Abuja"
 }
 
 # 1. Look up Harry's list and append a second value to it
-houses["Harry"].append("Slytherin")
-
-houses["Mubashir"].append("Osun")
+houses["Harry"] = "Slytherin"
 
 # 2. Add a new person with a list value, then add to it later
 houses["Sherif"] = ["Abuja"]
 houses["Sherif"].append("London")
 
 print(houses)
+
+# details = {
+#     "name": "Sherif", "age": "19"
+# }
+
+# print(details)
