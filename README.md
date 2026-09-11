@@ -4,12 +4,10 @@
 
 Welcome to my dedicated repository tracking my journey through Harvard University's famous **CS50W** course. This repository serves as an interactive learning log, code archive, and project showcase as I build full-stack web applications.
 
-<img src="https://shields.io" alt="Progress"> <img src="https://shields.io_|_Django_|_JavaScript-green" alt="Tech Stack">
-
 ## 🗺️ Course Progress Tracker
 
-- [ ] 🔹 **Lecture 0:** HTML, CSS 
-- [ ] 🔹 **Lecture 1:** Git
+- [x] 🔹 **Lecture 0:** HTML, CSS 
+- [x] 🔹 **Lecture 1:** Git
 - [ ] 🔹 **Lecture 2:** Python
 - [ ] 🔹 **Lecture 3:** Django
 - [ ] 🔹 **Lecture 4:** SQL, Models, and Migrations
