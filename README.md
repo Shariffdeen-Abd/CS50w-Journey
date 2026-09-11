@@ -1,14 +1,14 @@
 # 🎓 Harvard CS50W Journey: Web Programming with Python and JavaScript
 
-[![Course Progress](https://shields.io)](https://harvard.edu)
-[![Tech Stack](https://shields.io)](https://shields.io)
+![Course Progress](https://shields.io)
+![Tech Stack](https://shields.io_|_Django_|_JavaScript-green?style=for-the-badge)
+
 
 Welcome to my dedicated repository tracking my journey through Harvard University's famous **CS50W** course. This repository serves as an interactive learning log, code archive, and project showcase as I build full-stack web applications.
 
 ---
 
 ## 🗺️ Course Progress Tracker
-*Update the `[ ]` to `[x]` to check off completed milestones.*
 
 - [ ] 🔹 **Lecture 0:** HTML, CSS 
 - [ ] 🔹 **Lecture 1:** Git
