@@ -17,5 +17,5 @@
 
 name = "Harry"
 
-for character in name:
-    print(character)
+for i in name:
+    print(i)

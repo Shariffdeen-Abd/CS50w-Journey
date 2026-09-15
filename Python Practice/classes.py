@@ -1,8 +1,42 @@
-class Point():
-    def __init__(self, input1, input2):
-        self.x = input1
-        self.y = input2
+# class Point():
+#     def __init__(self, input1, input2):
+#             self.x = input1
+#             self.y = input2
 
-p = Point(2, 8)
-print(p.x)
-print(p.y)
+# p = Point(2, 8);
+# print(p.x);
+# print(p.y);
+
+# class car():
+#     def __init__(self, input1, input2):
+#         self.fast = input1
+#         self.slow = input2
+# car = car("lamborghini", "ferrari")
+# print(car.fast)
+# print(car.slow)
+
+
+class Flight():
+    def __init__(self, capacity):
+        self.capacity = capacity
+        self.passenger = []
+
+        def add_passenger(self, name):
+            if not self.openseats():
+                return False
+
+            self.passengers.append(name)
+            return True
+        
+        def open_seats(self):
+            return self.capacity - len(self.passengers)
+
+flight = Flight(3)
+
+people = ["Harry", "Ron", "Hermoine", "Ginny"]
+for person in people:
+    success = flight.add_passenger(person)
+    if success:
+        print(f"added {person} to flight successfully")
+    else:
+        print(f"No available seats for {person}")
