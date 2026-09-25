@@ -1,6 +1,6 @@
 # 🎓 Harvard CS50W Journey: Web Programming with Python and JavaScript
 
-> **Current Status:** 🟢 Course Started | **Milestone:** 2 / 9 Lectures Completed
+> **Current Status:** 🟢 Course Started | **Milestone:** 3 / 9 Lectures Completed
 
 Welcome to my dedicated repository tracking my journey through Harvard University's famous **CS50W** course. This repository serves as an interactive learning log, code archive, and project showcase as I build full-stack web applications.
 
