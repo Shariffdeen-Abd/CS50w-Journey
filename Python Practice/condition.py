@@ -1,4 +1,4 @@
-n = int(input("Number: "))
+ n = int(input("Number: "))
 
 if n > 0:
     print("n is positive")
@@ -13,4 +13,4 @@ else:
 # names = ["Harry ", "Ron", "Hermione"]
 
 # if "Ron" in names:
-#     print("Yes, Ron is in the group!")
+#     print("Yes, Ron is in the group!") 
