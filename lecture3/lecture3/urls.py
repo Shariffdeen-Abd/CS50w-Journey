@@ -1,5 +1,5 @@
 """
-URL configuration for lecture3 project.
+URL configuration for Lecture3 project.
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/6.1/topics/http/urls/
@@ -17,7 +17,7 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import include, path
 
-urlpatterns = [
+urlpatterns = [     
     path('admin/', admin.site.urls),
     path('hello/', include("hello.urls"))
 ]
