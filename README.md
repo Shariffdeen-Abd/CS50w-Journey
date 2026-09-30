@@ -9,7 +9,7 @@ Welcome to my dedicated repository tracking my journey through Harvard Universit
 - [x] 🔹 **Lecture 0:** HTML, CSS 
 - [x] 🔹 **Lecture 1:** Git
 - [x] 🔹 **Lecture 2:** Python
-- [ ] 🔹 **Lecture 3:** Django
+- [x] 🔹 **Lecture 3:** Django
 - [ ] 🔹 **Lecture 4:** SQL, Models, and Migrations
 - [ ] 🔹 **Lecture 5:** JavaScript
 - [ ] 🔹 **Lecture 6:** User Interfaces
